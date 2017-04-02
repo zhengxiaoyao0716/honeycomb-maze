@@ -1,0 +1,24 @@
+{
+  "name": "honeycomb-maze",
+  "version": "1.0.0",
+  "description": "Honeycomb maze game core.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengxiaoyao0716/honeycomb-maze.git"
+  },
+  "keywords": [
+    "maze",
+    "labyrinth",
+    "puzzle"
+  ],
+  "author": "zhengxiaoyao0716",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhengxiaoyao0716/honeycomb-maze/issues"
+  },
+  "homepage": "https://github.com/zhengxiaoyao0716/honeycomb-maze#readme"
+}
